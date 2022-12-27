@@ -11,6 +11,5 @@ class TransactionService
         _connection = connection;
     }
 
-    public IDbTransaction BeginTransaction()
-        => _connection.BeginTransaction();
+    public IDbTransaction BeginTransaction() => _connection.BeginTransaction();
 }
