@@ -26,7 +26,7 @@ Unit of work + dapper
 
 
 6. Tworzymy i rejestrujemy repozytoria
-   https://github.com/PiotrFerenc/dapper_unit_of_work/blob/main/Payment/Common/UnitOfWork.cs
+   https://github.com/PiotrFerenc/dapper_unit_of_work/tree/main/Payment/Repositories
 
 
 7. Tworzymy i rejestrujemy serwis korzystający z repozytoriów
