@@ -2,7 +2,7 @@
 
 Unit of work + dapper
 
-1. Tworzymy serwis do tworzenia transakcji
+1. Dodajemy serwis do tworzenia transakcji
    https://github.com/PiotrFerenc/dapper_unit_of_work/blob/main/Payment/Common/TransactionService.cs
 
 
